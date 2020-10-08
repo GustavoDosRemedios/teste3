@@ -1,2 +1,2 @@
 # teste3
-comentério teste
+comentário teste
